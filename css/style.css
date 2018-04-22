@@ -1,7 +1,7 @@
 /* Show it is fixed to the top */
 body { min-height: 45rem;  padding-top: 4.5rem;background:linear-gradient( to right, #343a40 ,#a4d, #343a40 ); }
 
-.item-box {  height: 300px; margin-bottom: 20px; float: none;  background-color: #a4d;}
+.item-box {  /*height: 300px;*/ margin-bottom: 20px; float: none;  background-color: #a4d;}
 .item-box > h2 { width: 100%;float: none; margin: 5px 0 0 0; text-align: center;padding: 2px 0 2px 0;background: linear-gradient( to right, #a4d,yellow ,#a4d );} 
 .item-box > img {position: relative; height: 60%;margin: auto;display: block;} 
 .item-box > a { position: relative; margin: 30px 0 0 0;display: block;}
