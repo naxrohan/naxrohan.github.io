@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://naxrohan.github.io/the-journey-begins</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/switch-from-xampp-to-docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/lamp-stack-with-docker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/configuring-a-docker-php-image</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/setting-up-2-different-git-ssh-keys</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/xml-to-json-in-nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/host-a-reactjs-website-in-gitlab-pages</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/hindi-bible</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/marathi-bible</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/konkani-bible</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/kjv-bible</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/bible-parables</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/worldproverbs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/apps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://naxrohan.github.io/privacy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
